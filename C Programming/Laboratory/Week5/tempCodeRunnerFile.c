@@ -1,0 +1,1 @@
+int min = funcs[0](a,b);
